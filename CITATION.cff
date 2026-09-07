@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this course, please cite it as below."
+title: "ServiceNow Integrations Masterclass"
+authors:
+  - family-names: Martin
+    given-names: Bill
+    email: baurenph@gmail.com
+repository-code: "https://github.com/BillMartin04/servicenow-integrations-course"
+url: "https://github.com/BillMartin04/servicenow-integrations-course"
+license: MIT
+year: 2026
+keywords:
+  - ServiceNow
+  - Flow Designer
+  - Integrations
+  - Build It The Right Way
