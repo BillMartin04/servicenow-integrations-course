@@ -1,0 +1,84 @@
+title: "ServiceNow Integrations Masterclass"
+description: "A free, hands-on masterclass for connecting ServiceNow to the systems your business depends on."
+structure:
+  - page: README.md
+    title: Welcome
+  - group: Getting Started
+    pages:
+      - page: getting-started/about.md
+        title: About This Course
+      - page: getting-started/prerequisites.md
+        title: "Prerequisites and Tooling"
+  - group: Modules
+    pages:
+      - page: module-01-integration-foundations/README.md
+        title: "Module 1 · Integration Foundations"
+        pages:
+          - page: module-01-integration-foundations/lesson-1-1.md
+            title: "1.1 · What ServiceNow REALLY Is at Its Core"
+          - page: module-01-integration-foundations/lesson-1-2.md
+            title: "1.2 · How ServiceNow Actually Handles Your Requests"
+          - page: module-01-integration-foundations/lesson-1-3.md
+            title: "1.3 · How Do YOU Handle ServiceNow Integrations"
+      - page: module-02-api-fundamentals/README.md
+        title: "Module 2 · API Fundamentals - REST vs SOAP"
+        pages:
+          - page: module-02-api-fundamentals/lesson-2-1.md
+            title: "2.1 · SOAP vs REST - The Real Difference"
+          - page: module-02-api-fundamentals/lesson-2-2.md
+            title: "2.2 · Why REST Beats Everything Else in API Design"
+      - page: module-03-restful-api-design/README.md
+        title: "Module 3 · RESTful API Design Background"
+        pages:
+          - page: module-03-restful-api-design/lesson-3-1.md
+            title: "3.1 · RESTful API Design Overview"
+          - page: module-03-restful-api-design/lesson-3-2.md
+            title: "3.2 · How to Consume a REST API"
+          - page: module-03-restful-api-design/lesson-3-3.md
+            title: "3.3 · Build an API Integration in C# - Background"
+          - page: module-03-restful-api-design/lesson-3-4.md
+            title: "3.4 · API Security - Authentication and Role-Based Authorization"
+      - page: module-04-servicenow-integration-patterns/README.md
+        title: "Module 4 · ServiceNow Integration Patterns"
+        pages:
+          - page: module-04-servicenow-integration-patterns/lesson-4-1.md
+            title: "4.1 · ServiceNow Integration Tutorial Step by Step"
+          - page: module-04-servicenow-integration-patterns/lesson-4-2.md
+            title: "4.2 · Exporting Data from ServiceNow - Manual"
+          - page: module-04-servicenow-integration-patterns/lesson-4-3.md
+            title: "4.3 · Exporting Data from ServiceNow - Programmatically"
+      - page: module-05-script-include-glideajax/README.md
+        title: "Module 5 · Script Include and GlideAjax"
+        pages:
+          - page: module-05-script-include-glideajax/lesson-5-1.md
+            title: "5.1 · Script Includes Explained with Full Demonstration"
+          - page: module-05-script-include-glideajax/lesson-5-2.md
+            title: "5.2 · Script Include and GlideAjax with REST API - Part 1"
+      - page: module-06-advanced-patterns/README.md
+        title: "Module 6 · Advanced Integration Patterns"
+        pages:
+          - page: module-06-advanced-patterns/lesson-6-1.md
+            title: "6.1 · Circuit Breaker Pattern with Script Include and GlideAjax"
+          - page: module-06-advanced-patterns/lesson-6-2.md
+            title: "6.2 · When NOT to Script Integrations in ServiceNow"
+          - page: module-06-advanced-patterns/lesson-6-3.md
+            title: "6.3 · Integration Hub - Quick Preview"
+      - page: module-07-source-control-tooling/README.md
+        title: "Module 7 · Source Control and Integration Tooling"
+        pages:
+          - page: module-07-source-control-tooling/lesson-7-1.md
+            title: "7.1 · Link a GitHub Repository to ServiceNow"
+          - page: module-07-source-control-tooling/lesson-7-2.md
+            title: "7.2 · Test APIs with Postman - Connecting to Genesys Cloud"
+          - page: module-07-source-control-tooling/lesson-7-3.md
+            title: "7.3 · Service Virtualization - Creating Virtualized Environments"
+          - page: module-07-source-control-tooling/lesson-7-4.md
+            title: "7.4 · Service Virtualization - Creating a Service from Scratch"
+  - group: Resources
+    pages:
+      - page: resources/about-the-author.md
+        title: About the Author
+      - page: resources/license.md
+        title: License
+      - page: resources/citation.md
+        title: Citation
