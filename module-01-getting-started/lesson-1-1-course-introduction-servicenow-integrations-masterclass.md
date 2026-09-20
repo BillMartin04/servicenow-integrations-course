@@ -4,7 +4,7 @@ description: 'Course Introduction: ServiceNow Integrations Masterclass - step-by
 
 # Course Introduction: ServiceNow Integrations Masterclass
 
-**Quick answer:** Welcome to ServiceNow Integrations Masterclass. This short introduction shows what you will build across the whole course and how to get the most from every lesson.
+**Quick answer:** Welcome to ServiceNow Integrations Masterclass. Read the syllabus for the course roadmap. The existing foundation video below is reused from Lesson 2.1; it is not a newly recorded tour of this course.
 
 ## Watch the video lesson
 
@@ -18,31 +18,29 @@ description: 'Course Introduction: ServiceNow Integrations Masterclass - step-by
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
-
-* Understand the goal of this course
-* See what you will build across the modules
-* Know how to use the videos, exercises, and final exam together
+* Locate the syllabus, lesson sequence and final assessment.
+* Distinguish PDI labs from conceptual and external tooling exercises.
+* Plan your setup before beginning the integration lessons.
 
 ## Overview
 
-A free, hands-on masterclass for connecting ServiceNow to the systems your business depends on. Watch this intro first, then set up your PDI in the next lessons.
+The course follows the same learning structure as the Flow Designer Masterclass: Getting Started, topic modules, practice evidence, and a final assessment with published rubrics. All teaching videos already exist; the written orientation and prerequisites organize them into a learning path.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=iHrTGGxlBbs
+Complete the seven integration topic modules after setup. Read the scope notes before attempting C#, ASP.NET, Genesys or service virtualization examples.
 
 ## Frequently asked questions
 
 ### Who is this course for?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
 
 ### What will I be able to do after finishing?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
 
 ### Do I need any paid tools or licenses?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
 
 ## Discussion and questions
 
@@ -52,10 +50,10 @@ Have a question or want to share your progress? Post a comment under the video a
 
 ## Continue the course
 
-Next lesson: [1.2 — Know Your Trainer](lesson-1-2-know-your-trainer.md)
+Next lesson: [1.2: Know Your Trainer](lesson-1-2-know-your-trainer.md)
 
 Back to: [Getting Started & Your Lab Environment module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 1 — Getting Started & Your Lab Environment — ServiceNow Integrations Masterclass.*
+Part of Module 1: Getting Started & Your Lab Environment: ServiceNow Integrations Masterclass.

@@ -11,6 +11,7 @@ license: MIT
 year: 2026
 keywords:
   - ServiceNow
-  - Flow Designer
+  - REST APIs
+  - GlideAjax
   - Integrations
   - Build It The Right Way

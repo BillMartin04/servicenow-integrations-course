@@ -1,10 +1,10 @@
 ---
-description: 'SOAP vs REST - The Real Difference - step-by-step ServiceNow tutorial. SOAP vs REST - The Real Difference — follow along in your PDI as the instructor demonstrates each step.'
+description: Compare REST and SOAP using the examples in the lesson. Protocol background. No new SOAP implementation is required.
 ---
 
 # SOAP vs REST - The Real Difference
 
-**Quick answer:** SOAP vs REST - The Real Difference is a core step in ServiceNow integrations and REST APIs. This lesson is a hands-on, step-by-step walkthrough you can follow in your own free ServiceNow Personal Developer Instance (PDI).
+**Quick answer:** Compare REST and SOAP using the examples in the lesson. Protocol background. No new SOAP implementation is required.
 
 ## Watch the video lesson
 
@@ -18,46 +18,50 @@ description: 'SOAP vs REST - The Real Difference - step-by-step ServiceNow tutor
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you should be able to:
 
-* Understand soap vs rest - the real difference in ServiceNow
-* Follow the steps shown in the video inside your own PDI
-* Recognise where this fits in the wider Flow Designer or integrations picture
+* Compare REST and SOAP using the examples in the lesson.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
 
 ## Overview
 
-SOAP vs REST - The Real Difference — follow along in your PDI as the instructor demonstrates each step.
+Protocol background. No new SOAP implementation is required.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=OXoQXLd4vrg
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Create a comparison of message format, interface description and request handling. Choose a fictional supplier interface and explain which protocol its published contract requires.
+
+### Evidence to keep
+
+A comparison supported by lesson notes, plus one justified protocol choice.
 
 ## Frequently asked questions
 
-### What is soap vs rest - the real difference?
+### Which differences matter to a consuming application?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
-### When would you use soap vs rest - the real difference in a real project?
+### Why should an existing interface contract influence your choice?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
-
-### What does the instructor demonstrate on screen?
-
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
 
 [Join the discussion on YouTube](https://www.youtube.com/watch?v=OXoQXLd4vrg)
 
 ## Continue the course
 
-Next lesson: [3.2 — Why REST Beats Everything Else in API Design](lesson-3-2-why-rest-beats-everything-else-in-api-design.md)
+Next lesson: [3.2: Why REST Beats Everything Else in API Design](lesson-3-2-why-rest-beats-everything-else-in-api-design.md)
 
-Previous lesson: [2.3 — How Do YOU Handle ServiceNow Integrations](../module-02-integration-foundations/lesson-2-3-how-do-you-handle-servicenow-integrations.md)
+Previous lesson: [2.3: How Do YOU Handle ServiceNow Integrations](../module-02-integration-foundations/lesson-2-3-how-do-you-handle-servicenow-integrations.md)
 
 Back to: [API Fundamentals - REST vs SOAP module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 3 — API Fundamentals - REST vs SOAP — ServiceNow Integrations Masterclass.*
+Part of Module 3: API Fundamentals - REST vs SOAP: ServiceNow Integrations Masterclass.

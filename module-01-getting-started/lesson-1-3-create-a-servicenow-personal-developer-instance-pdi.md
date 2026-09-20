@@ -34,15 +34,15 @@ Your PDI is your personal lab. This is the first practical step for every learne
 
 ### What is a Personal Developer Instance (PDI)?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
 
 ### Where do you go to request a PDI?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
 
 ### Why is a PDI essential for learning ServiceNow?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
 
 ## Discussion and questions
 
@@ -52,12 +52,12 @@ Have a question or want to share your progress? Post a comment under the video a
 
 ## Continue the course
 
-Next lesson: [1.4 — Configure Your Personal Developer Instance (PDI)](lesson-1-4-configure-your-personal-developer-instance-pdi.md)
+Next lesson: [1.4: Configure Your Personal Developer Instance (PDI)](lesson-1-4-configure-your-personal-developer-instance-pdi.md)
 
-Previous lesson: [1.2 — Know Your Trainer](lesson-1-2-know-your-trainer.md)
+Previous lesson: [1.2: Know Your Trainer](lesson-1-2-know-your-trainer.md)
 
 Back to: [Getting Started & Your Lab Environment module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 1 — Getting Started & Your Lab Environment — ServiceNow Integrations Masterclass.*
+Part of Module 1: Getting Started & Your Lab Environment: ServiceNow Integrations Masterclass.

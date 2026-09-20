@@ -1,10 +1,11 @@
 ---
-description: 'Exporting Data from ServiceNow - Programmatically - step-by-step ServiceNow tutorial. Exporting Data from ServiceNow - Programmatically — follow along in your PDI as the instructor demonstrates each s'
+description: Reproduce the programmatic export approach and verify its output. ServiceNow lab. Match the technique shown in the video and document any environment
+  differences.
 ---
 
 # Exporting Data from ServiceNow - Programmatically
 
-**Quick answer:** Exporting Data from ServiceNow - Programmatically is a core step in ServiceNow integrations and REST APIs. This lesson is a hands-on, step-by-step walkthrough you can follow in your own free ServiceNow Personal Developer Instance (PDI).
+**Quick answer:** Reproduce the programmatic export approach and verify its output. ServiceNow lab. Match the technique shown in the video and document any environment differences.
 
 ## Watch the video lesson
 
@@ -18,46 +19,50 @@ description: 'Exporting Data from ServiceNow - Programmatically - step-by-step S
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you should be able to:
 
-* Understand exporting data from servicenow - programmatically in ServiceNow
-* Follow the steps shown in the video inside your own PDI
-* Recognise where this fits in the wider Flow Designer or integrations picture
+* Reproduce the programmatic export approach and verify its output.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
 
 ## Overview
 
-Exporting Data from ServiceNow - Programmatically — follow along in your PDI as the instructor demonstrates each step.
+ServiceNow lab. Match the technique shown in the video and document any environment differences.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=ss6z35XTe-o
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Use the same synthetic dataset as Lesson 5.2. Reproduce the demonstrated export approach, record the selected fields and filters, and compare its output with your manual export.
+
+### Evidence to keep
+
+A sanitized programmatic result and an explanation of any difference from the manual export.
 
 ## Frequently asked questions
 
-### What is exporting data from servicenow - programmatically?
+### How is the selected dataset defined?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
-### When would you use exporting data from servicenow - programmatically in a real project?
+### How would you detect missing or duplicate rows?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
-
-### What does the instructor demonstrate on screen?
-
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
 
 [Join the discussion on YouTube](https://www.youtube.com/watch?v=ss6z35XTe-o)
 
 ## Continue the course
 
-Next lesson: [6.1 — Script Includes Explained with Full Demonstration](../module-06-script-include-glideajax/lesson-6-1-script-includes-explained-with-full-demonstration.md)
+Next lesson: [6.1: Script Includes Explained with Full Demonstration](../module-06-script-include-glideajax/lesson-6-1-script-includes-explained-with-full-demonstration.md)
 
-Previous lesson: [5.2 — Exporting Data from ServiceNow - Manual](lesson-5-2-exporting-data-from-servicenow-manual.md)
+Previous lesson: [5.2: Exporting Data from ServiceNow - Manual](lesson-5-2-exporting-data-from-servicenow-manual.md)
 
 Back to: [ServiceNow Integration Patterns module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 5 — ServiceNow Integration Patterns — ServiceNow Integrations Masterclass.*
+Part of Module 5: ServiceNow Integration Patterns: ServiceNow Integrations Masterclass.

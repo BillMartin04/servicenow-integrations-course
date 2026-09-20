@@ -4,7 +4,7 @@ description: 'Configure Your Personal Developer Instance (PDI) - step-by-step Se
 
 # Configure Your Personal Developer Instance (PDI)
 
-**Quick answer:** Configure your fresh PDI so it is ready for hands-on labs: elevate to admin, set application scope, and load the demo data you need.
+**Quick answer:** Configure your fresh PDI so it is ready for hands-on labs: check your access, identify the application scope used for practice, and prepare safe test data.
 
 ## Watch the video lesson
 
@@ -20,7 +20,7 @@ description: 'Configure Your Personal Developer Instance (PDI) - step-by-step Se
 
 By the end of this lesson, you will be able to:
 
-* Elevate your account to the admin role
+* Confirm your practice account has the access needed for the lab
 * Set your application scope for safe practice
 * Verify your PDI is ready for the course exercises
 
@@ -32,17 +32,17 @@ A fresh PDI needs a few tweaks before it is comfortable to work in. This lesson 
 
 ## Frequently asked questions
 
-### How do you elevate to admin in a PDI?
+### How do you confirm you have the required access?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
 
 ### Why does application scope matter?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
 
 ### What do you do if your PDI hibernates?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
 
 ## Discussion and questions
 
@@ -52,12 +52,12 @@ Have a question or want to share your progress? Post a comment under the video a
 
 ## Continue the course
 
-Next lesson: [1.5 — Prerequisites and Tooling](lesson-1-5-prerequisites-and-tooling.md)
+Next lesson: [1.5: Prerequisites and Tooling](lesson-1-5-prerequisites-and-tooling.md)
 
-Previous lesson: [1.3 — Create a ServiceNow Personal Developer Instance (PDI)](lesson-1-3-create-a-servicenow-personal-developer-instance-pdi.md)
+Previous lesson: [1.3: Create a ServiceNow Personal Developer Instance (PDI)](lesson-1-3-create-a-servicenow-personal-developer-instance-pdi.md)
 
 Back to: [Getting Started & Your Lab Environment module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 1 — Getting Started & Your Lab Environment — ServiceNow Integrations Masterclass.*
+Part of Module 1: Getting Started & Your Lab Environment: ServiceNow Integrations Masterclass.

@@ -1,10 +1,11 @@
 ---
-description: 'Script Includes Explained with Full Demonstration - step-by-step ServiceNow tutorial. Script Includes Explained with Full Demonstration — follow along in your PDI as the instructor demonstrates each s'
+description: Create and test reusable server logic using the demonstrated Script Include pattern. ServiceNow lab. Keep practice records separate from existing application
+  data.
 ---
 
 # Script Includes Explained with Full Demonstration
 
-**Quick answer:** Script Includes Explained with Full Demonstration is a core step in ServiceNow integrations and REST APIs. This lesson is a hands-on, step-by-step walkthrough you can follow in your own free ServiceNow Personal Developer Instance (PDI).
+**Quick answer:** Create and test reusable server logic using the demonstrated Script Include pattern. ServiceNow lab. Keep practice records separate from existing application data.
 
 ## Watch the video lesson
 
@@ -18,46 +19,50 @@ description: 'Script Includes Explained with Full Demonstration - step-by-step S
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you should be able to:
 
-* Understand script includes explained with full demonstration in ServiceNow
-* Follow the steps shown in the video inside your own PDI
-* Recognise where this fits in the wider Flow Designer or integrations picture
+* Create and test reusable server logic using the demonstrated Script Include pattern.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
 
 ## Overview
 
-Script Includes Explained with Full Demonstration — follow along in your PDI as the instructor demonstrates each step.
+ServiceNow lab. Keep practice records separate from existing application data.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=yu75ZE_qFUY
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Build a small Script Include using the lesson's pattern and synthetic input. Run it with one valid input and one empty or invalid input. Explain what the caller should receive in each case.
+
+### Evidence to keep
+
+The method definition and two test outcomes, with a stated input and output contract.
 
 ## Frequently asked questions
 
-### What is script includes explained with full demonstration?
+### What should be reusable about the method?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
-### When would you use script includes explained with full demonstration in a real project?
+### How does a caller know whether the operation succeeded?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
-
-### What does the instructor demonstrate on screen?
-
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
 
 [Join the discussion on YouTube](https://www.youtube.com/watch?v=yu75ZE_qFUY)
 
 ## Continue the course
 
-Next lesson: [6.2 — Script Include and GlideAjax with REST API - Part 1](lesson-6-2-script-include-and-glideajax-with-rest-api-part-1.md)
+Next lesson: [6.2: Script Include and GlideAjax with REST API - Part 1](lesson-6-2-script-include-and-glideajax-with-rest-api-part-1.md)
 
-Previous lesson: [5.3 — Exporting Data from ServiceNow - Programmatically](../module-05-servicenow-integration-patterns/lesson-5-3-exporting-data-from-servicenow-programmatically.md)
+Previous lesson: [5.3: Exporting Data from ServiceNow - Programmatically](../module-05-servicenow-integration-patterns/lesson-5-3-exporting-data-from-servicenow-programmatically.md)
 
 Back to: [Script Include and GlideAjax module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 6 — Script Include and GlideAjax — ServiceNow Integrations Masterclass.*
+Part of Module 6: Script Include and GlideAjax: ServiceNow Integrations Masterclass.

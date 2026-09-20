@@ -1,10 +1,10 @@
 ---
-description: 'What ServiceNow REALLY Is at Its Core - step-by-step ServiceNow tutorial. What ServiceNow REALLY Is at Its Core — follow along in your PDI as the instructor demonstrates each step.'
+description: Identify the platform components involved in an integration. Conceptual foundation. Use a diagram for this practice; no external connection is required.
 ---
 
 # What ServiceNow REALLY Is at Its Core
 
-**Quick answer:** What ServiceNow REALLY Is at Its Core is a core step in ServiceNow integrations and REST APIs. This lesson is a hands-on, step-by-step walkthrough you can follow in your own free ServiceNow Personal Developer Instance (PDI).
+**Quick answer:** Identify the platform components involved in an integration. Conceptual foundation. Use a diagram for this practice; no external connection is required.
 
 ## Watch the video lesson
 
@@ -18,46 +18,50 @@ description: 'What ServiceNow REALLY Is at Its Core - step-by-step ServiceNow tu
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you should be able to:
 
-* Understand what servicenow really is at its core in ServiceNow
-* Follow the steps shown in the video inside your own PDI
-* Recognise where this fits in the wider Flow Designer or integrations picture
+* Identify the platform components involved in an integration.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
 
 ## Overview
 
-What ServiceNow REALLY Is at Its Core — follow along in your PDI as the instructor demonstrates each step.
+Conceptual foundation. Use a diagram for this practice; no external connection is required.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=iHrTGGxlBbs
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Choose a fictional equipment request. Sketch the user, ServiceNow record, server logic and external system involved. Mark where information enters and leaves the platform.
+
+### Evidence to keep
+
+A labelled diagram and a short explanation of the responsibility of each component.
 
 ## Frequently asked questions
 
-### What is what servicenow really is at its core?
+### Which component owns the request data?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
-### When would you use what servicenow really is at its core in a real project?
+### Where does an external system enter your example?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
-
-### What does the instructor demonstrate on screen?
-
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
 
 [Join the discussion on YouTube](https://www.youtube.com/watch?v=iHrTGGxlBbs)
 
 ## Continue the course
 
-Next lesson: [2.2 — How ServiceNow Actually Handles Your Requests](lesson-2-2-how-servicenow-actually-handles-your-requests.md)
+Next lesson: [2.2: How ServiceNow Actually Handles Your Requests](lesson-2-2-how-servicenow-actually-handles-your-requests.md)
 
-Previous lesson: [1.5 — Prerequisites and Tooling](../module-01-getting-started/lesson-1-5-prerequisites-and-tooling.md)
+Previous lesson: [1.5: Prerequisites and Tooling](../module-01-getting-started/lesson-1-5-prerequisites-and-tooling.md)
 
 Back to: [Integration Foundations module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 2 — Integration Foundations — ServiceNow Integrations Masterclass.*
+Part of Module 2: Integration Foundations: ServiceNow Integrations Masterclass.

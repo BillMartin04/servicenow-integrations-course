@@ -1,10 +1,10 @@
 ---
-description: 'How Do YOU Handle ServiceNow Integrations - step-by-step ServiceNow tutorial. How Do YOU Handle ServiceNow Integrations — follow along in your PDI as the instructor demonstrates each step.'
+description: Describe an integration requirement before selecting an implementation. Design exercise based on the existing integration discussion.
 ---
 
 # How Do YOU Handle ServiceNow Integrations
 
-**Quick answer:** How Do YOU Handle ServiceNow Integrations is a core step in ServiceNow integrations and REST APIs. This lesson is a hands-on, step-by-step walkthrough you can follow in your own free ServiceNow Personal Developer Instance (PDI).
+**Quick answer:** Describe an integration requirement before selecting an implementation. Design exercise based on the existing integration discussion.
 
 ## Watch the video lesson
 
@@ -18,46 +18,50 @@ description: 'How Do YOU Handle ServiceNow Integrations - step-by-step ServiceNo
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you should be able to:
 
-* Understand how do you handle servicenow integrations in ServiceNow
-* Follow the steps shown in the video inside your own PDI
-* Recognise where this fits in the wider Flow Designer or integrations picture
+* Describe an integration requirement before selecting an implementation.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
 
 ## Overview
 
-How Do YOU Handle ServiceNow Integrations — follow along in your PDI as the instructor demonstrates each step.
+Design exercise based on the existing integration discussion.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=If0wOGL0bHQ
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Write a brief for a fictional equipment supplier integration. Identify the source, destination, required fields, direction of data movement, expected frequency and owner of failures.
+
+### Evidence to keep
+
+A one page integration brief with an explicit success condition.
 
 ## Frequently asked questions
 
-### What is how do you handle servicenow integrations?
+### What information is missing before you can choose an approach?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
-### When would you use how do you handle servicenow integrations in a real project?
+### Who is responsible when the integration fails?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
-
-### What does the instructor demonstrate on screen?
-
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
 
 [Join the discussion on YouTube](https://www.youtube.com/watch?v=If0wOGL0bHQ)
 
 ## Continue the course
 
-Next lesson: [3.1 — SOAP vs REST - The Real Difference](../module-03-api-fundamentals/lesson-3-1-soap-vs-rest-the-real-difference.md)
+Next lesson: [3.1: SOAP vs REST - The Real Difference](../module-03-api-fundamentals/lesson-3-1-soap-vs-rest-the-real-difference.md)
 
-Previous lesson: [2.2 — How ServiceNow Actually Handles Your Requests](lesson-2-2-how-servicenow-actually-handles-your-requests.md)
+Previous lesson: [2.2: How ServiceNow Actually Handles Your Requests](lesson-2-2-how-servicenow-actually-handles-your-requests.md)
 
 Back to: [Integration Foundations module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 2 — Integration Foundations — ServiceNow Integrations Masterclass.*
+Part of Module 2: Integration Foundations: ServiceNow Integrations Masterclass.

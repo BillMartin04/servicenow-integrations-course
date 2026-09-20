@@ -1,10 +1,11 @@
 ---
-description: 'When NOT to Script Integrations in ServiceNow - step-by-step ServiceNow tutorial. When NOT to Script Integrations in ServiceNow — follow along in your PDI as the instructor demonstrates each step.'
+description: Justify when to use a supported capability and when custom scripting is warranted. Architecture decision exercise. Do not assume a connector or paid
+  capability is available in your PDI.
 ---
 
 # When NOT to Script Integrations in ServiceNow
 
-**Quick answer:** When NOT to Script Integrations in ServiceNow is a core step in ServiceNow integrations and REST APIs. This lesson is a hands-on, step-by-step walkthrough you can follow in your own free ServiceNow Personal Developer Instance (PDI).
+**Quick answer:** Justify when to use a supported capability and when custom scripting is warranted. Architecture decision exercise. Do not assume a connector or paid capability is available in your PDI.
 
 ## Watch the video lesson
 
@@ -18,46 +19,50 @@ description: 'When NOT to Script Integrations in ServiceNow - step-by-step Servi
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you should be able to:
 
-* Understand when not to script integrations in servicenow in ServiceNow
-* Follow the steps shown in the video inside your own PDI
-* Recognise where this fits in the wider Flow Designer or integrations picture
+* Justify when to use a supported capability and when custom scripting is warranted.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
 
 ## Overview
 
-When NOT to Script Integrations in ServiceNow — follow along in your PDI as the instructor demonstrates each step.
+Architecture decision exercise. Do not assume a connector or paid capability is available in your PDI.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=sTM_ME8KcN0
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Revisit your Lesson 2.3 integration brief. Compare a supported capability with a custom implementation and record the fit, access requirements, maintenance owner and one reason to reject each option.
+
+### Evidence to keep
+
+A short decision record tied to a specific requirement.
 
 ## Frequently asked questions
 
-### What is when not to script integrations in servicenow?
+### What requirement actually needs custom code?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
-### When would you use when not to script integrations in servicenow in a real project?
+### Who will maintain the chosen approach?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
-
-### What does the instructor demonstrate on screen?
-
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
 
 [Join the discussion on YouTube](https://www.youtube.com/watch?v=sTM_ME8KcN0)
 
 ## Continue the course
 
-Next lesson: [7.3 — Integration Hub - Quick Preview](lesson-7-3-integration-hub-quick-preview.md)
+Next lesson: [7.3: Integration Hub - Quick Preview](lesson-7-3-integration-hub-quick-preview.md)
 
-Previous lesson: [7.1 — Circuit Breaker Pattern with Script Include and GlideAjax](lesson-7-1-circuit-breaker-pattern-with-script-include-and-glideajax.md)
+Previous lesson: [7.1: Circuit Breaker Pattern with Script Include and GlideAjax](lesson-7-1-circuit-breaker-pattern-with-script-include-and-glideajax.md)
 
 Back to: [Advanced Integration Patterns module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 7 — Advanced Integration Patterns — ServiceNow Integrations Masterclass.*
+Part of Module 7: Advanced Integration Patterns: ServiceNow Integrations Masterclass.

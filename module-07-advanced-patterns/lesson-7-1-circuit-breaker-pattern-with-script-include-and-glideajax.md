@@ -1,10 +1,11 @@
 ---
-description: 'Circuit Breaker Pattern with Script Include and GlideAjax - step-by-step ServiceNow tutorial. Circuit Breaker Pattern with Script Include and GlideAjax — follow along in your PDI as the instructor dem'
+description: Explain and test the circuit breaker behavior demonstrated in the lesson. ServiceNow resilience lab. Simulate failures in your own test environment,
+  never against a production service.
 ---
 
 # Circuit Breaker Pattern with Script Include and GlideAjax
 
-**Quick answer:** Circuit Breaker Pattern with Script Include and GlideAjax is a core step in ServiceNow integrations and REST APIs. This lesson is a hands-on, step-by-step walkthrough you can follow in your own free ServiceNow Personal Developer Instance (PDI).
+**Quick answer:** Explain and test the circuit breaker behavior demonstrated in the lesson. ServiceNow resilience lab. Simulate failures in your own test environment, never against a production service.
 
 ## Watch the video lesson
 
@@ -18,46 +19,50 @@ description: 'Circuit Breaker Pattern with Script Include and GlideAjax - step-b
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you should be able to:
 
-* Understand circuit breaker pattern with script include and glideajax in ServiceNow
-* Follow the steps shown in the video inside your own PDI
-* Recognise where this fits in the wider Flow Designer or integrations picture
+* Explain and test the circuit breaker behavior demonstrated in the lesson.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
 
 ## Overview
 
-Circuit Breaker Pattern with Script Include and GlideAjax — follow along in your PDI as the instructor demonstrates each step.
+ServiceNow resilience lab. Simulate failures in your own test environment, never against a production service.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=nU9XaRzyWeA
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Reproduce the demonstrated pattern against a controlled mock or test endpoint. Simulate a failure, show the resulting behavior, and document how you return the example to its normal state.
+
+### Evidence to keep
+
+Normal, failure and recovery observations with sanitized diagnostic output.
 
 ## Frequently asked questions
 
-### What is circuit breaker pattern with script include and glideajax?
+### What condition changes the behavior of the example?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
-### When would you use circuit breaker pattern with script include and glideajax in a real project?
+### How do you demonstrate recovery instead of assuming it?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
-
-### What does the instructor demonstrate on screen?
-
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
 
 [Join the discussion on YouTube](https://www.youtube.com/watch?v=nU9XaRzyWeA)
 
 ## Continue the course
 
-Next lesson: [7.2 — When NOT to Script Integrations in ServiceNow](lesson-7-2-when-not-to-script-integrations-in-servicenow.md)
+Next lesson: [7.2: When NOT to Script Integrations in ServiceNow](lesson-7-2-when-not-to-script-integrations-in-servicenow.md)
 
-Previous lesson: [6.2 — Script Include and GlideAjax with REST API - Part 1](../module-06-script-include-glideajax/lesson-6-2-script-include-and-glideajax-with-rest-api-part-1.md)
+Previous lesson: [6.2: Script Include and GlideAjax with REST API - Part 1](../module-06-script-include-glideajax/lesson-6-2-script-include-and-glideajax-with-rest-api-part-1.md)
 
 Back to: [Advanced Integration Patterns module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 7 — Advanced Integration Patterns — ServiceNow Integrations Masterclass.*
+Part of Module 7: Advanced Integration Patterns: ServiceNow Integrations Masterclass.

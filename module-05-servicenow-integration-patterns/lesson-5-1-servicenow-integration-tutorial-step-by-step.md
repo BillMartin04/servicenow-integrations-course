@@ -1,10 +1,11 @@
 ---
-description: 'ServiceNow Integration Tutorial Step by Step - step-by-step ServiceNow tutorial. ServiceNow Integration Tutorial Step by Step — follow along in your PDI as the instructor demonstrates each step.'
+description: Reproduce the ServiceNow integration pattern demonstrated in the lesson. ServiceNow lab. Use the implementation shown in the existing video, not an unrelated
+  integration product.
 ---
 
 # ServiceNow Integration Tutorial Step by Step
 
-**Quick answer:** ServiceNow Integration Tutorial Step by Step is a core step in ServiceNow integrations and REST APIs. This lesson is a hands-on, step-by-step walkthrough you can follow in your own free ServiceNow Personal Developer Instance (PDI).
+**Quick answer:** Reproduce the ServiceNow integration pattern demonstrated in the lesson. ServiceNow lab. Use the implementation shown in the existing video, not an unrelated integration product.
 
 ## Watch the video lesson
 
@@ -18,46 +19,50 @@ description: 'ServiceNow Integration Tutorial Step by Step - step-by-step Servic
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you should be able to:
 
-* Understand servicenow integration tutorial step by step in ServiceNow
-* Follow the steps shown in the video inside your own PDI
-* Recognise where this fits in the wider Flow Designer or integrations picture
+* Reproduce the ServiceNow integration pattern demonstrated in the lesson.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
 
 ## Overview
 
-ServiceNow Integration Tutorial Step by Step — follow along in your PDI as the instructor demonstrates each step.
+ServiceNow lab. Use the implementation shown in the existing video, not an unrelated integration product.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=ngy9R1-gEWg
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Follow the demonstrated pattern using your PDI and an authorized test endpoint. Record the request configuration, test input, resulting response and one observed failure. Keep a short list of any release-specific differences.
+
+### Evidence to keep
+
+A working test result, a failure result and a sanitized configuration summary.
 
 ## Frequently asked questions
 
-### What is servicenow integration tutorial step by step?
+### Which system initiates the request?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
-### When would you use servicenow integration tutorial step by step in a real project?
+### Which evidence shows that the intended data arrived?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
-
-### What does the instructor demonstrate on screen?
-
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
 
 [Join the discussion on YouTube](https://www.youtube.com/watch?v=ngy9R1-gEWg)
 
 ## Continue the course
 
-Next lesson: [5.2 — Exporting Data from ServiceNow - Manual](lesson-5-2-exporting-data-from-servicenow-manual.md)
+Next lesson: [5.2: Exporting Data from ServiceNow - Manual](lesson-5-2-exporting-data-from-servicenow-manual.md)
 
-Previous lesson: [4.4 — API Security - Authentication and Role-Based Authorization](../module-04-restful-api-design/lesson-4-4-api-security-authentication-and-role-based-authorization.md)
+Previous lesson: [4.4: API Security - Authentication and Role-Based Authorization](../module-04-restful-api-design/lesson-4-4-api-security-authentication-and-role-based-authorization.md)
 
 Back to: [ServiceNow Integration Patterns module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 5 — ServiceNow Integration Patterns — ServiceNow Integrations Masterclass.*
+Part of Module 5: ServiceNow Integration Patterns: ServiceNow Integrations Masterclass.

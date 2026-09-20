@@ -1,10 +1,10 @@
 ---
-description: 'Exporting Data from ServiceNow - Manual - step-by-step ServiceNow tutorial. Exporting Data from ServiceNow - Manual — follow along in your PDI as the instructor demonstrates each step.'
+description: Export a controlled set of test records manually. PDI lab with synthetic data only. Do not export customer, employee or production information.
 ---
 
 # Exporting Data from ServiceNow - Manual
 
-**Quick answer:** Exporting Data from ServiceNow - Manual is a core step in ServiceNow integrations and REST APIs. This lesson is a hands-on, step-by-step walkthrough you can follow in your own free ServiceNow Personal Developer Instance (PDI).
+**Quick answer:** Export a controlled set of test records manually. PDI lab with synthetic data only. Do not export customer, employee or production information.
 
 ## Watch the video lesson
 
@@ -18,46 +18,50 @@ description: 'Exporting Data from ServiceNow - Manual - step-by-step ServiceNow 
 
 ## What you will learn
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you should be able to:
 
-* Understand exporting data from servicenow - manual in ServiceNow
-* Follow the steps shown in the video inside your own PDI
-* Recognise where this fits in the wider Flow Designer or integrations picture
+* Export a controlled set of test records manually.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
 
 ## Overview
 
-Exporting Data from ServiceNow - Manual — follow along in your PDI as the instructor demonstrates each step.
+PDI lab with synthetic data only. Do not export customer, employee or production information.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=qbka771D2Jg
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Create or select a small synthetic dataset in your PDI. Record its filter and count, export it using the demonstrated method, and compare the output fields and number of rows with the selected records.
+
+### Evidence to keep
+
+A sanitized export and a reconciliation of the selected records against the exported rows.
 
 ## Frequently asked questions
 
-### What is exporting data from servicenow - manual?
+### Which records did your filter include?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
-### When would you use exporting data from servicenow - manual in a real project?
+### What should you check before sharing an export?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
-
-### What does the instructor demonstrate on screen?
-
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
 
 [Join the discussion on YouTube](https://www.youtube.com/watch?v=qbka771D2Jg)
 
 ## Continue the course
 
-Next lesson: [5.3 — Exporting Data from ServiceNow - Programmatically](lesson-5-3-exporting-data-from-servicenow-programmatically.md)
+Next lesson: [5.3: Exporting Data from ServiceNow - Programmatically](lesson-5-3-exporting-data-from-servicenow-programmatically.md)
 
-Previous lesson: [5.1 — ServiceNow Integration Tutorial Step by Step](lesson-5-1-servicenow-integration-tutorial-step-by-step.md)
+Previous lesson: [5.1: ServiceNow Integration Tutorial Step by Step](lesson-5-1-servicenow-integration-tutorial-step-by-step.md)
 
 Back to: [ServiceNow Integration Patterns module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
 
 ---
 
-*Part of Module 5 — ServiceNow Integration Patterns — ServiceNow Integrations Masterclass.*
+Part of Module 5: ServiceNow Integration Patterns: ServiceNow Integrations Masterclass.

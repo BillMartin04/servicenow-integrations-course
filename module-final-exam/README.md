@@ -1,79 +1,46 @@
 ---
-description: 'ServiceNow Integrations Masterclass final exam: 3 graded 5-minute video demos with rubrics. Exam Navigator members submit hands-on videos for instructor review and earn a certificate.'
+description: 'Three practical integration assessments with evidence checklists and published rubrics totalling 100 points.'
 ---
 
-# Final Exam & Certification — ServiceNow Integrations Masterclass
+# Final Assessment and Course Completion
 
-## Get a ServiceNow architect to personally verify you're ready
+## Demonstrate what you can do
 
-You've watched the lessons. Now prove it — and get a real expert to confirm you've got it. In the final exam, you record 3 short hands-on videos, and **Bill personally reviews each one** against a professional rubric, sends you written feedback, and issues a **branded Certificate of Completion** you can share on LinkedIn and bring to interviews.
+Use three short recordings to show your work and explain your decisions. This follows the Flow Designer Masterclass assessment structure: a scenario, demonstration tasks, full and partial credit criteria, and an evidence checklist for each exam.
 
-This is the difference between *"I watched a course"* and *"a ServiceNow architect reviewed my work and certified I'm job-ready."*
+Prepare and test your work before recording. Each recording is a walkthrough lasting no more than five minutes, not a timed requirement to build a complete integration from scratch.
 
-**Quick answer:** The final exam is a set of 3 short (5-minute) hands-on video demonstrations. You record yourself performing real ServiceNow tasks in your own Personal Developer Instance (PDI), submit the videos through a simple Google Form, and your instructor reviews each one against a published rubric. Pass all 3 and you earn your **branded Certificate of Completion**. Personal instructor review is an **Exam Navigator member (and above) benefit**.
+## Personal review
 
-## What you get as an Exam Navigator member
+The tasks and rubrics are open for self-assessment. Personal grading, feedback and a course Certificate of Completion are benefits for active [Exam Navigator members or higher tiers](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join).
 
-* ✅ **Personal video review** by a practicing ServiceNow architect (7x CIS-certified)
-* ✅ **Written, rubric-based feedback** on every exam — know exactly where you stand
-* ✅ A **branded Certificate of Completion** to share on LinkedIn and show employers
-* ✅ **Unlimited resubmissions** until you pass — you're paying for mastery, not a one-shot gate
-* ✅ **Interview & real-project readiness** confidence from real expert validation
+This is an independent course assessment, not an official ServiceNow certification or a guarantee of production readiness. Check the [submission guide](submission-guide.md) for intake availability before sharing recordings.
 
-{% hint style="success" %}
-**Review turnaround:** Submissions from active members are reviewed within **5–7 days**. You'll get your score, written feedback, and (on passing all 3) your certificate.
-{% endhint %}
+## The three exams
 
-{% hint style="warning" %}
-**Members only — exam review requires the Exam Navigator tier (or higher).** The lessons in this course are free to watch. However, your videos will **only be reviewed, scored, and certified if you are an active *Exam Navigator* member — or any higher tier** — on the [TechTalk with Bill YouTube channel](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join). Non-member submissions will not be graded. [Become an Exam Navigator member here](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join) to unlock instructor review, personalized feedback, and your certificate.
-{% endhint %}
-
-## Why a video exam instead of a multiple-choice quiz?
-
-Integrations and rest apis in ServiceNow is a hands-on skill. Anyone can guess on a multiple-choice test — but you cannot fake building a working flow, wiring up an integration, or handling an error branch. Recording yourself doing the work proves real competence, builds your confidence, and gives you a portfolio you can show employers.
-
-Each video is intentionally short (**5 minutes maximum**) so you have to be precise, organized, and demonstrate that you truly know the platform.
-
-## The 3 exams
-
-You will record **3 separate videos**, each no longer than 5 minutes, and **submit all 3 together in a single submission** (not one at a time). Each one maps to a core competency area of this course:
-
-| # | Exam | Competency area | Modules covered |
-|---|------|-----------------|-----------------|
-| 1 | [Exam 1 — REST API Basics and an Outbound Call](exam-1-rest-api-basics-and-outbound-call.md) | REST fundamentals, outbound integrations | Modules 1, 2, 3 |
-| 2 | [Exam 2 — Inbound REST and Server-Side Scripting](exam-2-inbound-rest-and-server-side-scripting.md) | Inbound REST API, Script Includes, GlideAjax | Modules 4, 5 |
-| 3 | [Exam 3 — Advanced Patterns and Source Control](exam-3-advanced-patterns-and-source-control.md) | Advanced integration patterns, source control, tooling | Modules 6, 7 |
+| Exam | Topic | Modules covered | Points |
+|---|---|---|---|
+| 1 | [API Fundamentals and an Integration Test](exam-1-rest-api-basics-and-outbound-call.md) | 2, 3, 4, 5 | 33 |
+| 2 | [Data Export, Script Includes and GlideAjax](exam-2-inbound-rest-and-server-side-scripting.md) | 5, 6 | 33 |
+| 3 | [Circuit Breaker and Source Control](exam-3-advanced-patterns-and-source-control.md) | 7, 8 | 34 |
 
 ## How grading works
 
-{% hint style="info" %}
-**Reminder:** Grading and feedback are provided **only to active Exam Navigator members (or higher tiers)**. When you submit, you must include the **email or YouTube handle tied to your membership** so your instructor can verify your tier before reviewing. Submissions without a verifiable active membership are not reviewed.
-{% endhint %}
+Use the published criteria to score each demonstration. The maximum scores are 33, 33 and 34, giving a combined total of 100 points.
 
-Each video is scored using the rubric published on that exam's page. Points are distributed across the 3 exams to sum to a total of **100 points**.
+| Combined score | Result |
+|---|---|
+| 90 to 100 | Pass with Distinction |
+| 70 to 89 | Pass |
+| 50 to 69 | Revise and resubmit |
+| Below 50 | Revisit the lessons and resubmit |
 
-| Result | Score | Outcome |
-|--------|-------|---------|
-| **Pass with Distinction** | 90–100 | Certificate + "Distinction" badge |
-| **Pass** | 70–89 | Certificate of Completion |
-| **Resubmit** | 50–69 | Feedback provided; re-record the weak exam(s) and resubmit |
-| **Not yet passing** | below 50 | Detailed feedback; review the relevant modules and try again |
-
-If you fall short on any exam, you may **resubmit** as many times as you need — the goal is mastery, not a one-shot gate.
+The pass threshold is 70 out of 100 across all three exams. It is not a separate 70 point threshold for each exam.
 
 ## Before you start
 
-1. **Become an Exam Navigator member (or higher tier)** on the [TechTalk with Bill channel](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join) — required for your videos to be reviewed.
-2. Make sure your **free Personal Developer Instance (PDI)** is up and running.
-3. Have completed all content modules of this course.
-4. Be ready to **screen-record with your voice narrating** what you do and why.
-5. Read the [Submission Guide](submission-guide.md) so you know exactly how to record, upload, and submit.
+Complete the learning modules and their practice exercises. Use synthetic data, retain sanitized evidence, and review the rubric before recording.
 
 ## Get started
 
-* [Read the submission guide first](submission-guide.md)
-* [Start with Exam 1 — REST API Basics and an Outbound Call](exam-1-rest-api-basics-and-outbound-call.md)
-
----
-
-*Final Exam & Certification — ServiceNow Integrations Masterclass.*
+[Read the submission guide](submission-guide.md), then [open Exam 1](exam-1-rest-api-basics-and-outbound-call.md).
