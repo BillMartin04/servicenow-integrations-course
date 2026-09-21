@@ -1,59 +1,43 @@
 ---
-description: 'Course Introduction: ServiceNow Integrations Masterclass - step-by-step ServiceNow tutorial. A free, hands-on masterclass for connecting ServiceNow to the systems your business depends on. Watch this '
+description: How to follow the existing ServiceNow integration playlist as a structured course.
 ---
 
-# Course Introduction: ServiceNow Integrations Masterclass
+# Course Introduction
 
-**Quick answer:** Welcome to ServiceNow Integrations Masterclass. Read the syllabus for the course roadmap. The existing foundation video below is reused from Lesson 2.1; it is not a newly recorded tour of this course.
-
-## Watch the video lesson
-
-{% embed url="https://www.youtube.com/watch?v=iHrTGGxlBbs" %}
-
-<!-- If the embed does not render, use this HTML block in GitBook: -->
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iHrTGGxlBbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
-
+**Quick answer:** This course organizes the ten videos in the [existing ServiceNow integration playlist](https://www.youtube.com/playlist?list=PLWMzEPW90q1aSU7CP-lKn8kqm9kB6pEBp) into a guided learning path. The course adds written practice and assessment instructions, not new teaching videos.
 
 ## What you will learn
 
-* Locate the syllabus, lesson sequence and final assessment.
-* Distinguish PDI labs from conceptual and external tooling exercises.
-* Plan your setup before beginning the integration lessons.
+* Locate the source playlist and the course syllabus.
+* Understand the difference between ServiceNow labs and external API examples.
+* Prepare the lab environment before starting the topic lessons.
 
 ## Overview
 
-The course follows the same learning structure as the Flow Designer Masterclass: Getting Started, topic modules, practice evidence, and a final assessment with published rubrics. All teaching videos already exist; the written orientation and prerequisites organize them into a learning path.
+Start with the instructor introduction and PDI setup, then follow the topic modules. The integration overview appears before the practical sequence to give you context; all ten playlist videos are retained, and their original playlist positions are recorded in the syllabus.
 
-Complete the seven integration topic modules after setup. Read the scope notes before attempting C#, ASP.NET, Genesys or service virtualization examples.
+The source playlist includes C#, ASP.NET and a Genesys example. Those lessons remain part of the course, clearly identified as external API background or tooling examples. Use only environments and accounts you are authorized to access.
+
+### Getting ready
+
+Read the syllabus and record the integration question you want to answer. Keep an evidence folder for sanitized test results, diagrams and short explanations.
 
 ## Frequently asked questions
 
-### Who is this course for?
+### Does this course use Shorts as lessons?
 
-Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
+The integration teaching sequence is restricted to the ten videos in the source playlist. The instructor and two PDI setup videos are reused separately from the existing courses.
 
-### What will I be able to do after finishing?
+### Must I watch a new course introduction video?
 
-Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
-
-### Do I need any paid tools or licenses?
-
-Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson.
+No. This is a written orientation page, not an additional video.
 
 ## Discussion and questions
 
-Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
-
-[Join the discussion on YouTube](https://www.youtube.com/watch?v=iHrTGGxlBbs)
+Use the discussion link under the relevant video lesson. Do not post credentials or private data.
 
 ## Continue the course
 
-Next lesson: [1.2: Know Your Trainer](lesson-1-2-know-your-trainer.md)
+Next: [Know Your Trainer](../module-01-getting-started/lesson-1-2-know-your-trainer.md)
 
-Back to: [Getting Started & Your Lab Environment module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 1: Getting Started & Your Lab Environment: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

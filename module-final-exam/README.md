@@ -1,46 +1,32 @@
 ---
-description: 'Three practical integration assessments with evidence checklists and published rubrics totalling 100 points.'
+description: Three assessments, published rubrics and a combined maximum of 100 points.
 ---
 
 # Final Assessment and Course Completion
 
+
 ## Demonstrate what you can do
 
-Use three short recordings to show your work and explain your decisions. This follows the Flow Designer Masterclass assessment structure: a scenario, demonstration tasks, full and partial credit criteria, and an evidence checklist for each exam.
-
-Prepare and test your work before recording. Each recording is a walkthrough lasting no more than five minutes, not a timed requirement to build a complete integration from scratch.
-
-## Personal review
-
-The tasks and rubrics are open for self-assessment. Personal grading, feedback and a course Certificate of Completion are benefits for active [Exam Navigator members or higher tiers](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join).
-
-This is an independent course assessment, not an official ServiceNow certification or a guarantee of production readiness. Check the [submission guide](submission-guide.md) for intake availability before sharing recordings.
+Follow the same assessment format as the Flow Designer Masterclass: prepare your work, record three short demonstrations, and use the published rubrics and evidence checklists to evaluate your results. Each recording must be no longer than five minutes; building and testing happen before recording.
 
 ## The three exams
 
-| Exam | Topic | Modules covered | Points |
+| Exam | Topic | Modules | Points |
 |---|---|---|---|
-| 1 | [API Fundamentals and an Integration Test](exam-1-rest-api-basics-and-outbound-call.md) | 2, 3, 4, 5 | 33 |
-| 2 | [Data Export, Script Includes and GlideAjax](exam-2-inbound-rest-and-server-side-scripting.md) | 5, 6 | 33 |
-| 3 | [Circuit Breaker and Source Control](exam-3-advanced-patterns-and-source-control.md) | 7, 8 | 34 |
+| 1 | [API Contracts, Security and Testing](exam-1-rest-api-basics-and-outbound-call.md) | 2 and 3 | 33 |
+| 2 | [Inbound, Outbound and Client Server Integration](exam-2-inbound-rest-and-server-side-scripting.md) | 4 | 33 |
+| 3 | [Resilience, Data Export and Source Control](exam-3-advanced-patterns-and-source-control.md) | 3, 4 and 5 | 34 |
 
 ## How grading works
 
-Use the published criteria to score each demonstration. The maximum scores are 33, 33 and 34, giving a combined total of 100 points.
+The combined maximum is 100 points, allocated as 33, 33 and 34. A combined score of 70 to 89 is a pass, and 90 to 100 is a pass with Distinction; below 70, review the feedback and resubmit.
 
-| Combined score | Result |
-|---|---|
-| 90 to 100 | Pass with Distinction |
-| 70 to 89 | Pass |
-| 50 to 69 | Revise and resubmit |
-| Below 50 | Revisit the lessons and resubmit |
+## Personal review
 
-The pass threshold is 70 out of 100 across all three exams. It is not a separate 70 point threshold for each exam.
+Everyone can use these exercises and rubrics for practice. Personal grading, feedback and a course Certificate of Completion are benefits for active [Exam Navigator members or higher tiers](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join).
 
-## Before you start
-
-Complete the learning modules and their practice exercises. Use synthetic data, retain sanitized evidence, and review the rubric before recording.
+This is an independent course completion assessment, not an official ServiceNow certification. The [submission guide](submission-guide.md) marks intake as pending until a verified course form is available.
 
 ## Get started
 
-[Read the submission guide](submission-guide.md), then [open Exam 1](exam-1-rest-api-basics-and-outbound-call.md).
+Read the submission guide and [begin Exam 1](exam-1-rest-api-basics-and-outbound-call.md). Never include private data or credentials in your evidence.

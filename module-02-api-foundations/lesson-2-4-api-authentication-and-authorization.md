@@ -3,7 +3,7 @@ description: Distinguish identity verification from permission decisions in the 
   control setup guide.
 ---
 
-# API Security - Authentication and Role-Based Authorization
+# API Authentication and Role Based Authorization
 
 **Quick answer:** Distinguish identity verification from permission decisions in the example. ASP.NET Core background. This is not a ServiceNow authentication or access control setup guide.
 
@@ -57,12 +57,8 @@ Have a question or want to share your progress? Post a comment under the video, 
 
 ## Continue the course
 
-Next lesson: [5.1: ServiceNow Integration Tutorial Step by Step](../module-05-servicenow-integration-patterns/lesson-5-1-servicenow-integration-tutorial-step-by-step.md)
+Next: [Test APIs with Postman: Genesys Cloud Example](../module-03-integration-tooling/lesson-3-1-postman-genesys-cloud.md)
 
-Previous lesson: [4.3: Build an API Integration in C# - Background](lesson-4-3-build-an-api-integration-in-c-background.md)
+Previous: [Build a REST API with C#](../module-02-api-foundations/lesson-2-3-build-a-rest-api-csharp.md)
 
-Back to: [RESTful API Design Background module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 4: RESTful API Design Background: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

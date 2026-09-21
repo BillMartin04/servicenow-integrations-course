@@ -3,7 +3,7 @@ description: Recognize how the C# example consumes an external API. C# backgroun
   route.
 ---
 
-# Build an API Integration in C# - Background
+# Build a REST API with C#
 
 **Quick answer:** Recognize how the C# example consumes an external API. C# background, not ServiceNow server scripting. A local C# environment is optional for the walkthrough route.
 
@@ -57,12 +57,8 @@ Have a question or want to share your progress? Post a comment under the video, 
 
 ## Continue the course
 
-Next lesson: [4.4: API Security - Authentication and Role-Based Authorization](lesson-4-4-api-security-authentication-and-role-based-authorization.md)
+Next: [API Authentication and Role Based Authorization](../module-02-api-foundations/lesson-2-4-api-authentication-and-authorization.md)
 
-Previous lesson: [4.2: How to Consume a REST API](lesson-4-2-how-to-consume-a-rest-api.md)
+Previous: [How to Consume a REST API](../module-02-api-foundations/lesson-2-2-consume-a-rest-api.md)
 
-Back to: [RESTful API Design Background module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 4: RESTful API Design Background: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

@@ -3,7 +3,7 @@ description: Reproduce the programmatic export approach and verify its output. S
   differences.
 ---
 
-# Exporting Data from ServiceNow - Programmatically
+# Export Data from ServiceNow Programmatically
 
 **Quick answer:** Reproduce the programmatic export approach and verify its output. ServiceNow lab. Match the technique shown in the video and document any environment differences.
 
@@ -27,17 +27,15 @@ By the end of this lesson, you should be able to:
 
 ## Overview
 
-ServiceNow lab. Match the technique shown in the video and document any environment differences.
-
-Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+Use synthetic data in your PDI and the export technique demonstrated in the video. Do not use customer, employee or production records.
 
 ### Practice exercise
 
-Use the same synthetic dataset as Lesson 5.2. Reproduce the demonstrated export approach, record the selected fields and filters, and compare its output with your manual export.
+Select a small synthetic dataset and record its fields, filter and expected row count. Reproduce the demonstrated programmatic export, then compare its output with the selected records. Explain any missing or duplicate rows.
 
 ### Evidence to keep
 
-A sanitized programmatic result and an explanation of any difference from the manual export.
+A sanitized export, the selection criteria and a reconciliation of expected and actual output.
 
 ## Frequently asked questions
 
@@ -57,12 +55,8 @@ Have a question or want to share your progress? Post a comment under the video, 
 
 ## Continue the course
 
-Next lesson: [6.1: Script Includes Explained with Full Demonstration](../module-06-script-include-glideajax/lesson-6-1-script-includes-explained-with-full-demonstration.md)
+Next: [Final assessment](../module-final-exam/README.md)
 
-Previous lesson: [5.2: Exporting Data from ServiceNow - Manual](lesson-5-2-exporting-data-from-servicenow-manual.md)
+Previous: [Circuit Breaker with Script Include and GlideAjax](../module-04-servicenow-integrations/lesson-4-3-circuit-breaker.md)
 
-Back to: [ServiceNow Integration Patterns module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 5: ServiceNow Integration Patterns: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

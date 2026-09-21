@@ -2,3 +2,32 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
+redirects:
+  module-04-restful-api-design/lesson-4-1-restful-api-design-overview: module-02-api-foundations/lesson-2-1-servicenow-integration-overview.md
+  module-04-restful-api-design/lesson-4-2-how-to-consume-a-rest-api: module-02-api-foundations/lesson-2-2-consume-a-rest-api.md
+  module-04-restful-api-design/lesson-4-3-build-an-api-integration-in-c-background: module-02-api-foundations/lesson-2-3-build-a-rest-api-csharp.md
+  module-04-restful-api-design/lesson-4-4-api-security-authentication-and-role-based-authorization: module-02-api-foundations/lesson-2-4-api-authentication-and-authorization.md
+  module-08-source-control-tooling/lesson-8-2-test-apis-with-postman-connecting-to-genesys-cloud: module-03-integration-tooling/lesson-3-1-postman-genesys-cloud.md
+  module-08-source-control-tooling/lesson-8-1-link-a-github-repository-to-servicenow: module-03-integration-tooling/lesson-3-2-github-source-control.md
+  module-05-servicenow-integration-patterns/lesson-5-1-servicenow-integration-tutorial-step-by-step: module-04-servicenow-integrations/lesson-4-1-inbound-and-outbound-rest.md
+  module-06-script-include-glideajax/lesson-6-2-script-include-and-glideajax-with-rest-api-part-1: module-04-servicenow-integrations/lesson-4-2-script-include-glideajax-rest.md
+  module-07-advanced-patterns/lesson-7-1-circuit-breaker-pattern-with-script-include-and-glideajax: module-04-servicenow-integrations/lesson-4-3-circuit-breaker.md
+  module-05-servicenow-integration-patterns/lesson-5-3-exporting-data-from-servicenow-programmatically: module-05-data-export/lesson-5-1-programmatic-data-export.md
+  module-03-api-fundamentals/README: SYLLABUS.md
+  module-03-api-fundamentals/lesson-3-2-why-rest-beats-everything-else-in-api-design: SYLLABUS.md
+  module-03-api-fundamentals/lesson-3-1-soap-vs-rest-the-real-difference: SYLLABUS.md
+  module-02-integration-foundations/README: SYLLABUS.md
+  module-02-integration-foundations/lesson-2-1-what-servicenow-really-is-at-its-core: SYLLABUS.md
+  module-02-integration-foundations/lesson-2-2-how-servicenow-actually-handles-your-requests: SYLLABUS.md
+  module-02-integration-foundations/lesson-2-3-how-do-you-handle-servicenow-integrations: SYLLABUS.md
+  module-05-servicenow-integration-patterns/README: SYLLABUS.md
+  module-05-servicenow-integration-patterns/lesson-5-2-exporting-data-from-servicenow-manual: SYLLABUS.md
+  module-06-script-include-glideajax/README: SYLLABUS.md
+  module-06-script-include-glideajax/lesson-6-1-script-includes-explained-with-full-demonstration: SYLLABUS.md
+  module-04-restful-api-design/README: SYLLABUS.md
+  module-07-advanced-patterns/README: SYLLABUS.md
+  module-07-advanced-patterns/lesson-7-3-integration-hub-quick-preview: SYLLABUS.md
+  module-07-advanced-patterns/lesson-7-2-when-not-to-script-integrations-in-servicenow: SYLLABUS.md
+  module-08-source-control-tooling/lesson-8-4-service-virtualization-creating-a-service-from-scratch: SYLLABUS.md
+  module-08-source-control-tooling/README: SYLLABUS.md
+  module-08-source-control-tooling/lesson-8-3-service-virtualization-creating-virtualized-environments: SYLLABUS.md

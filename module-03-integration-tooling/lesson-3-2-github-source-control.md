@@ -57,12 +57,8 @@ Have a question or want to share your progress? Post a comment under the video, 
 
 ## Continue the course
 
-Next lesson: [8.2: Test APIs with Postman - Connecting to Genesys Cloud](lesson-8-2-test-apis-with-postman-connecting-to-genesys-cloud.md)
+Next: [ServiceNow Inbound and Outbound REST Integration](../module-04-servicenow-integrations/lesson-4-1-inbound-and-outbound-rest.md)
 
-Previous lesson: [7.3: Integration Hub - Quick Preview](../module-07-advanced-patterns/lesson-7-3-integration-hub-quick-preview.md)
+Previous: [Test APIs with Postman: Genesys Cloud Example](../module-03-integration-tooling/lesson-3-1-postman-genesys-cloud.md)
 
-Back to: [Source Control and Integration Tooling module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 8: Source Control and Integration Tooling: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

@@ -3,7 +3,7 @@ description: Trace and test the client, Script Include and REST interaction. Ser
   test endpoint.
 ---
 
-# Script Include and GlideAjax with REST API - Part 1
+# Script Include and GlideAjax with REST API
 
 **Quick answer:** Trace and test the client, Script Include and REST interaction. ServiceNow lab. Keep credentials out of client code and recordings; use only an authorized test endpoint.
 
@@ -57,12 +57,8 @@ Have a question or want to share your progress? Post a comment under the video, 
 
 ## Continue the course
 
-Next lesson: [7.1: Circuit Breaker Pattern with Script Include and GlideAjax](../module-07-advanced-patterns/lesson-7-1-circuit-breaker-pattern-with-script-include-and-glideajax.md)
+Next: [Circuit Breaker with Script Include and GlideAjax](../module-04-servicenow-integrations/lesson-4-3-circuit-breaker.md)
 
-Previous lesson: [6.1: Script Includes Explained with Full Demonstration](lesson-6-1-script-includes-explained-with-full-demonstration.md)
+Previous: [ServiceNow Inbound and Outbound REST Integration](../module-04-servicenow-integrations/lesson-4-1-inbound-and-outbound-rest.md)
 
-Back to: [Script Include and GlideAjax module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 6: Script Include and GlideAjax: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

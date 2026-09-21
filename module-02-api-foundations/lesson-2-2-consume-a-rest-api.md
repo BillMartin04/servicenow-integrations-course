@@ -57,12 +57,8 @@ Have a question or want to share your progress? Post a comment under the video, 
 
 ## Continue the course
 
-Next lesson: [4.3: Build an API Integration in C# - Background](lesson-4-3-build-an-api-integration-in-c-background.md)
+Next: [Build a REST API with C#](../module-02-api-foundations/lesson-2-3-build-a-rest-api-csharp.md)
 
-Previous lesson: [4.1: RESTful API Design Overview](lesson-4-1-restful-api-design-overview.md)
+Previous: [ServiceNow Integration Overview](../module-02-api-foundations/lesson-2-1-servicenow-integration-overview.md)
 
-Back to: [RESTful API Design Background module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 4: RESTful API Design Background: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

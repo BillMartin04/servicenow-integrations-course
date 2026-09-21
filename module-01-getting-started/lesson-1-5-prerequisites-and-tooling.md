@@ -16,7 +16,7 @@ description: 'Prepare your PDI, test data and optional integration tools before 
 
 Complete the PDI creation and configuration lessons first. Use an account authorized to make changes in your own practice instance, and keep course work separate from other applications.
 
-The REST design module includes C# and ASP.NET background. The tooling module includes Postman, a Genesys example and service virtualization. These examples are not all executable inside a PDI, and the course does not provide third party accounts or licenses.
+The API foundations module includes C# and ASP.NET background. The tooling module includes Postman and a Genesys example. These examples are not all executable inside a PDI, and the course does not provide third party accounts or licenses.
 
 ### Lab readiness checklist
 
@@ -37,9 +37,9 @@ Never include passwords, access tokens, client secrets or private records in scr
 
 No. Conceptual exercises can be completed as diagrams or design notes. Read each lesson's scope before attempting a practical example.
 
-### Is the Integration Hub preview a full implementation lab?
+### Does this course provide a Genesys account or local C# development tools?
 
-No. It is a short introduction and is labelled accordingly. Do not assume that a preview provides the access or instruction needed for a full implementation.
+No. Check access before attempting those examples. Where you use a mock or written walkthrough, identify it clearly instead of claiming a live provider connection.
 
 ## Discussion and questions
 
@@ -47,12 +47,8 @@ For a question about a specific demonstration, use the discussion link on that l
 
 ## Continue the course
 
-Next lesson: [2.1: What ServiceNow REALLY Is at Its Core](../module-02-integration-foundations/lesson-2-1-what-servicenow-really-is-at-its-core.md)
+Next: [ServiceNow Integration Overview](../module-02-api-foundations/lesson-2-1-servicenow-integration-overview.md)
 
-Previous lesson: [1.4: Configure Your Personal Developer Instance (PDI)](lesson-1-4-configure-your-personal-developer-instance-pdi.md)
+Previous: [Configure Your Personal Developer Instance (PDI)](../module-01-getting-started/lesson-1-4-configure-your-personal-developer-instance-pdi.md)
 
-Back to: [Getting Started & Your Lab Environment module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 1: Getting Started & Your Lab Environment: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

@@ -52,12 +52,8 @@ Have a question or want to share your progress? Post a comment under the video a
 
 ## Continue the course
 
-Next lesson: [1.5: Prerequisites and Tooling](lesson-1-5-prerequisites-and-tooling.md)
+Next: [Prerequisites and Tooling](../module-01-getting-started/lesson-1-5-prerequisites-and-tooling.md)
 
-Previous lesson: [1.3: Create a ServiceNow Personal Developer Instance (PDI)](lesson-1-3-create-a-servicenow-personal-developer-instance-pdi.md)
+Previous: [Create a ServiceNow Personal Developer Instance (PDI)](../module-01-getting-started/lesson-1-3-create-a-servicenow-personal-developer-instance-pdi.md)
 
-Back to: [Getting Started & Your Lab Environment module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 1: Getting Started & Your Lab Environment: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

@@ -3,7 +3,7 @@ description: Reproduce the ServiceNow integration pattern demonstrated in the le
   integration product.
 ---
 
-# ServiceNow Integration Tutorial Step by Step
+# ServiceNow Inbound and Outbound REST Integration
 
 **Quick answer:** Reproduce the ServiceNow integration pattern demonstrated in the lesson. ServiceNow lab. Use the implementation shown in the existing video, not an unrelated integration product.
 
@@ -57,12 +57,8 @@ Have a question or want to share your progress? Post a comment under the video, 
 
 ## Continue the course
 
-Next lesson: [5.2: Exporting Data from ServiceNow - Manual](lesson-5-2-exporting-data-from-servicenow-manual.md)
+Next: [Script Include and GlideAjax with REST API](../module-04-servicenow-integrations/lesson-4-2-script-include-glideajax-rest.md)
 
-Previous lesson: [4.4: API Security - Authentication and Role-Based Authorization](../module-04-restful-api-design/lesson-4-4-api-security-authentication-and-role-based-authorization.md)
+Previous: [Link a GitHub Repository to ServiceNow](../module-03-integration-tooling/lesson-3-2-github-source-control.md)
 
-Back to: [ServiceNow Integration Patterns module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 5: ServiceNow Integration Patterns: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

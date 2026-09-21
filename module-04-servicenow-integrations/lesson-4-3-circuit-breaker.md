@@ -3,7 +3,7 @@ description: Explain and test the circuit breaker behavior demonstrated in the l
   never against a production service.
 ---
 
-# Circuit Breaker Pattern with Script Include and GlideAjax
+# Circuit Breaker with Script Include and GlideAjax
 
 **Quick answer:** Explain and test the circuit breaker behavior demonstrated in the lesson. ServiceNow resilience lab. Simulate failures in your own test environment, never against a production service.
 
@@ -57,12 +57,8 @@ Have a question or want to share your progress? Post a comment under the video, 
 
 ## Continue the course
 
-Next lesson: [7.2: When NOT to Script Integrations in ServiceNow](lesson-7-2-when-not-to-script-integrations-in-servicenow.md)
+Next: [Export Data from ServiceNow Programmatically](../module-05-data-export/lesson-5-1-programmatic-data-export.md)
 
-Previous lesson: [6.2: Script Include and GlideAjax with REST API - Part 1](../module-06-script-include-glideajax/lesson-6-2-script-include-and-glideajax-with-rest-api-part-1.md)
+Previous: [Script Include and GlideAjax with REST API](../module-04-servicenow-integrations/lesson-4-2-script-include-glideajax-rest.md)
 
-Back to: [Advanced Integration Patterns module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 7: Advanced Integration Patterns: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)

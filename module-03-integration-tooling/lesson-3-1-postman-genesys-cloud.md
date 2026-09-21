@@ -3,7 +3,7 @@ description: Inspect an API request using the Postman example. External tooling 
   practice.
 ---
 
-# Test APIs with Postman - Connecting to Genesys Cloud
+# Test APIs with Postman: Genesys Cloud Example
 
 **Quick answer:** Inspect an API request using the Postman example. External tooling example. Genesys access is not supplied by this course; a mock is acceptable for this practice.
 
@@ -57,12 +57,8 @@ Have a question or want to share your progress? Post a comment under the video, 
 
 ## Continue the course
 
-Next lesson: [8.3: Service Virtualization - Creating Virtualized Environments](lesson-8-3-service-virtualization-creating-virtualized-environments.md)
+Next: [Link a GitHub Repository to ServiceNow](../module-03-integration-tooling/lesson-3-2-github-source-control.md)
 
-Previous lesson: [8.1: Link a GitHub Repository to ServiceNow](lesson-8-1-link-a-github-repository-to-servicenow.md)
+Previous: [API Authentication and Role Based Authorization](../module-02-api-foundations/lesson-2-4-api-authentication-and-authorization.md)
 
-Back to: [Source Control and Integration Tooling module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
-
----
-
-Part of Module 8: Source Control and Integration Tooling: ServiceNow Integrations Masterclass.
+Back to: [Module overview](README.md) | [Course home](../README.md) | [Syllabus](../SYLLABUS.md)
