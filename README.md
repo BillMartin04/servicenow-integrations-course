@@ -51,3 +51,5 @@ Complete three short demonstrations with [published tasks, rubrics and evidence 
 Everyone can use the exercises for practice. Personal review and a course Certificate of Completion are benefits for active Exam Navigator members or higher tiers, matching the Flow Designer course; this is not an official ServiceNow certification.
 
 Read the [submission guide](module-final-exam/submission-guide.md) for current intake availability.
+
+If this course helps you, please [join the community](join-the-community.md) on YouTube or send a one time thank you.
