@@ -27,6 +27,8 @@ Everyone can use these exercises and rubrics for practice. Personal grading, fee
 
 This is an independent course completion assessment, not an official ServiceNow certification. The [submission guide](submission-guide.md) marks intake as pending until a verified course form is available.
 
+To become a member, see [Join the Community](../join-the-community.md).
+
 ## Get started
 
 Read the submission guide and [begin Exam 1](exam-1-rest-api-basics-and-outbound-call.md). Never include private data or credentials in your evidence.
