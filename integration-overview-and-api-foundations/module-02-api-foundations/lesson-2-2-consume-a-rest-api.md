@@ -1,0 +1,60 @@
+---
+description: >-
+  Reproduce an API consumption example and inspect its response. Use synthetic
+  data. Endpoint availability and access must be checked before running the
+  exercise.
+---
+
+# 2.2: How to Consume a REST API
+
+**Quick answer:** Reproduce an API consumption example and inspect its response. Use synthetic data. Endpoint availability and access must be checked before running the exercise.
+
+## Watch the video lesson
+
+{% embed url="https://www.youtube.com/watch?v=xAbJsIe-MWA" %}
+
+## What you will learn
+
+By the end of this lesson, you should be able to:
+
+* Reproduce an API consumption example and inspect its response.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
+
+## Overview
+
+Use synthetic data. Endpoint availability and access must be checked before running the exercise.
+
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Use an endpoint you are authorized to test or a local mock. Send a request using the lesson's approach, identify one returned field, and compare a valid request with one deliberately invalid request.
+
+### Evidence to keep
+
+Two sanitized request results and an explanation of the difference.
+
+## Frequently asked questions
+
+### What distinguishes a transport result from a useful business result?
+
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
+
+### What should a consumer do with an unexpected response?
+
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
+
+## Discussion and questions
+
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
+
+[Join the discussion on YouTube](https://www.youtube.com/watch?v=xAbJsIe-MWA)
+
+## Continue the course
+
+Next: [Build a REST API with C#](lesson-2-3-build-a-rest-api-csharp.md)
+
+Previous: [ServiceNow Integration Overview](lesson-2-1-servicenow-integration-overview.md)
+
+Back to: [Module overview](./) | [Course home](../../) | [Syllabus](../../syllabus.md)

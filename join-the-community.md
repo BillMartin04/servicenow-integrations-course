@@ -1,5 +1,7 @@
 ---
-description: "Join the TechTalk with Bill community on YouTube and help keep the ServiceNow Integrations Masterclass free for everyone."
+description: >-
+  Join the TechTalk with Bill community on YouTube and help keep the ServiceNow
+  Integrations Masterclass free for everyone.
 ---
 
 # Join the Community
@@ -12,9 +14,9 @@ If this course is helping you, please join the TechTalk with Bill community on Y
 
 ## Why join
 
-- **Keep the course free.** Members fund the time it takes to record, write and update every lesson.
-- **Learn alongside other builders.** Share what you integrate, ask questions and see how others solve the same problems.
-- **Choose the level that suits you.** Each level shows its perks and its monthly price in your local currency.
+* **Keep the course free.** Members fund the time it takes to record, write and update every lesson.
+* **Learn alongside other builders.** Share what you integrate, ask questions and see how others solve the same problems.
+* **Choose the level that suits you.** Each level shows its perks and its monthly price in your local currency.
 
 ## Get your work reviewed with Exam Navigator
 
@@ -22,13 +24,13 @@ Practising the assessments is one thing. Knowing your integrations are right is 
 
 As an Exam Navigator member or higher tier you receive:
 
-- Personal grading of your three [final assessment](module-final-exam/README.md) demonstrations against the published rubrics.
-- Feedback on what you built and how to improve it.
-- A course Certificate of Completion when you pass.
+* Personal grading of your three [final assessment](final-assessment-and-course-completion/module-final-exam.md) demonstrations against the published rubrics.
+* Feedback on what you built and how to improve it.
+* A course Certificate of Completion when you pass.
 
 <a href="https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join" class="button primary">Become an Exam Navigator member</a>
 
-Read the [Submission Guide](module-final-exam/submission-guide.md) for current intake availability. This is an independent course completion assessment, not an official ServiceNow certification.
+Read the [Submission Guide](final-assessment-and-course-completion/submission-guide.md) for current intake availability. This is an independent course completion assessment, not an official ServiceNow certification.
 
 ## Send a one time thank you
 
@@ -42,6 +44,6 @@ Thank you for learning with me. Join the community today and build it the right 
 
 Bill
 
----
+***
 
-Back to: [Welcome](README.md) | [Syllabus](SYLLABUS.md) | [Final Assessment Overview](module-final-exam/README.md)
+Back to: [Welcome](./) | [Syllabus](syllabus.md) | [Final Assessment Overview](final-assessment-and-course-completion/module-final-exam.md)

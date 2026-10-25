@@ -1,0 +1,60 @@
+---
+description: >-
+  Distinguish identity verification from permission decisions in the example.
+  ASP.NET Core background. This is not a ServiceNow authentication or access
+  control setup guide.
+---
+
+# 2.4: API Authentication and Role Based Authorization
+
+**Quick answer:** Distinguish identity verification from permission decisions in the example. ASP.NET Core background. This is not a ServiceNow authentication or access control setup guide.
+
+## Watch the video lesson
+
+{% embed url="https://www.youtube.com/watch?v=EhlohAs51hU" %}
+
+## What you will learn
+
+By the end of this lesson, you should be able to:
+
+* Distinguish identity verification from permission decisions in the example.
+* Complete the topic practice below and describe its outcome.
+* Explain what you tested and what remains unverified.
+
+## Overview
+
+ASP.NET Core background. This is not a ServiceNow authentication or access control setup guide.
+
+Watch the existing lesson first, then use the practice below to check your understanding. The practice is a course exercise, not a transcript of the video.
+
+### Practice exercise
+
+Map the authentication and role checks shown in the ASP.NET example. Describe an allowed user and a denied user, and identify the evidence that would distinguish their outcomes.
+
+### Evidence to keep
+
+An access decision table and a note separating ASP.NET configuration from ServiceNow configuration.
+
+## Frequently asked questions
+
+### How is identity established in the example?
+
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
+
+### What prevents an authenticated user from performing an unauthorized action?
+
+Use the video and your practice evidence to explain your answer. If you cannot demonstrate it yet, note what you need to test next.
+
+## Discussion and questions
+
+Have a question or want to share your progress? Post a comment under the video, describing what you tried and the result. Do not include credentials or private data.
+
+[Join the discussion on YouTube](https://www.youtube.com/watch?v=EhlohAs51hU)
+
+## Continue the course
+
+Next: [Test APIs with Postman: Genesys Cloud Example](../../api-testing-and-source-control/module-03-integration-tooling/lesson-3-1-postman-genesys-cloud.md)
+
+Previous: [Build a REST API with C#](lesson-2-3-build-a-rest-api-csharp.md)
+
+Back to: [Module overview](./) | [Course home](../../) | [Syllabus](../../syllabus.md)

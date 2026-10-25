@@ -1,9 +1,10 @@
 ---
-description: A structured course built from the existing ten video ServiceNow integration playlist, with shared PDI setup, exercises and three assessments.
+description: >-
+  A structured course built from the existing ten video ServiceNow integration
+  playlist, with shared PDI setup, exercises and three assessments.
 ---
 
-# ServiceNow Integrations Masterclass
-
+# Welcome
 
 ### A Practical Course by TechTalk with Bill
 
@@ -13,7 +14,7 @@ This course organizes the [existing ServiceNow integration playlist](https://www
 
 ## Start here
 
-Open [Getting Started](module-01-getting-started/README.md), or review the [full syllabus](SYLLABUS.md). The instructor introduction and PDI creation and configuration videos are reused from the existing courses.
+Open [Getting Started](getting-started-and-your-lab-environment/module-01-getting-started/), or review the [full syllabus](syllabus.md). The instructor introduction and PDI creation and configuration videos are reused from the existing courses.
 
 ## What you will learn
 
@@ -35,21 +36,21 @@ Each video lesson includes learning objectives, a practice exercise, evidence to
 
 Use a PDI for the ServiceNow examples. C#, ASP.NET and Genesys are external examples from the source playlist, not additional ServiceNow products supplied by the course; follow the scope notes and identify any mock or design-only alternative in your evidence.
 
-| Course detail | Description |
-|---|---|
-| Learning structure | 5 modules and a separate final assessment section |
-| Core integration content | 10 videos from the existing playlist |
-| Shared introduction and setup | 3 existing videos |
-| Written setup pages | Course Introduction and Prerequisites |
-| Total lesson pages | 15 |
-| License | MIT for repository materials; see LICENSE and NOTICE |
+| Course detail                 | Description                                          |
+| ----------------------------- | ---------------------------------------------------- |
+| Learning structure            | 5 modules and a separate final assessment section    |
+| Core integration content      | 10 videos from the existing playlist                 |
+| Shared introduction and setup | 3 existing videos                                    |
+| Written setup pages           | Course Introduction and Prerequisites                |
+| Total lesson pages            | 15                                                   |
+| License                       | MIT for repository materials; see LICENSE and NOTICE |
 
 ## Final assessment
 
-Complete three short demonstrations with [published tasks, rubrics and evidence checklists](module-final-exam/README.md). The assessments total 100 points, allocated as 33, 33 and 34.
+Complete three short demonstrations with [published tasks, rubrics and evidence checklists](final-assessment-and-course-completion/module-final-exam.md). The assessments total 100 points, allocated as 33, 33 and 34.
 
 Everyone can use the exercises for practice. Personal review and a course Certificate of Completion are benefits for active Exam Navigator members or higher tiers, matching the Flow Designer course; this is not an official ServiceNow certification.
 
-Read the [submission guide](module-final-exam/submission-guide.md) for current intake availability.
+Read the [submission guide](final-assessment-and-course-completion/submission-guide.md) for current intake availability.
 
 If this course helps you, please [join the community](join-the-community.md) on YouTube or send a one time thank you.
