@@ -1,10 +1,10 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: "ServiceNow Integrations Masterclass"
+  title: ServiceNow Integrations Masterclass
   structure:
     - type: space
       key: integrations
-      title: "ServiceNow Integrations Masterclass"
+      title: ServiceNow Integrations Masterclass
       path: integrations
       default: true
       content:
